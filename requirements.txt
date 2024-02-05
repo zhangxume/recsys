@@ -5,3 +5,4 @@ pydeck
 streamlit
 pyspark
 scikit-learn
+jieba
